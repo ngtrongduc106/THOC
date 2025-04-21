@@ -1,4 +1,4 @@
-# 🛰️ THOC - Trusted Hyper Orchestrator for Cloud
+# 🌾 THOC - Trusted Hyper Orchestrator for Cloud
 
 **THOC** is an on-premise cloud platform that provides flexible virtualization infrastructure provisioning services, including virtual machines, networking, storage, orchestration, and workloads. The system is divided into independent, easily scalable, and maintainable modules.
 
