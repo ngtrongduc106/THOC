@@ -1,6 +1,6 @@
 # 🛰️ THOC - Trusted Hyper Orchestrator for Cloud
 
-**THOC** là một nền tảng cloud nội bộ (on-premise) cung cấp dịch vụ provisioning hạ tầng ảo hóa linh hoạt như máy ảo, mạng, lưu trữ, orchestration, và workloads (Kubernetes). Hệ thống được chia thành các mô-đun độc lập dễ mở rộng và bảo trì.
+**THOC** is an on-premise cloud platform that provides flexible virtualization infrastructure provisioning services, including virtual machines, networking, storage, orchestration, and workloads. The system is divided into independent, easily scalable, and maintainable modules.
 
 ---
 
